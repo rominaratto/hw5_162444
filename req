@@ -1,0 +1,12 @@
+transformers==4.40.1
+torch>=2.0.0
+sentencepiece
+pymupdf==1.23.9
+spacy==3.7.4
+es_core_news_sm @ https://github.com/explosion/spacy-models/releases/download/es_core_news_sm-3.7.0/es_core_news_sm-3.7.0-py3-none-any.whl
+language-tool-python==2.7.1
+matplotlib==3.8.4
+seaborn==0.13.2
+pandas==2.2.2
+scikit-learn==1.4.2
+huggingface-hub>=0.20.3
